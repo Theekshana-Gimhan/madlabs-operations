@@ -42,7 +42,7 @@ MADLABS is a scaling software solution startup. The workspace has been reorganiz
 - **MAD-gcp-infra**: Terraform configurations for GCP.
 - **MD2PDF-Desktop**: Markdown to PDF conversion utility.
 - **Cybersource Payment Plugin**: Custom WordPress integration.
-- **madlabs-saas-template**: Standardized GitHub Template.
+- **MADLABS MASTER Template**: Standardized GitHub Template for all projects.
 
 ## 5. Organizational Structure
 **Budget for Tools:** $0 (Strictly Open Source / GitHub Free Tier).
@@ -60,10 +60,10 @@ MADLABS is a scaling software solution startup. The workspace has been reorganiz
 | **Intern Devs** | 2 | Learning / Support |
 | **PM Intern** | 1 | Project coordination |
 
-## 4. Operational Mandates
+## 6. Operational Mandates
 1. **GitHub-Centric:** Use Issues, Projects, and Milestones for all tracking.
-2. **Standardization:** All new SaaS must derive from `madlabs-saas-template`.
-3. **Architecture:** Clean Architecture, Type Safety (Zod), and TDD are mandatory (as per `GEMINI.md`).
+2. **Standardization:** All new projects must derive from `MADLABS MASTER Template`.
+3. **Architecture:** Clean Architecture, Type Safety (Zod), and TDD are mandatory (as per `MADLABS_STANDARDS.md`).
 
 ---
 *Last Updated: 2026-03-18*
