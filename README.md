@@ -17,9 +17,13 @@ Welcome to the **MADLABS Operations Center**. This repository is the Single Sour
 ### 3. Business & QA Tools
 - [UAT Feedback Triage Template](./UAT_FEEDBACK_TRIAGE_TEMPLATE.md) — For the BA to manage client requests.
 
+## 🛠️ Company Assets
+
+- **[MADLABS MASTER Template](https://github.com/Mad-marketing-git/madlabs-master-template)** — Standardized GitHub Template for all SaaS, Web, and Utility projects.
+
 ---
 
-## 🛠️ Usage for Team Members
+## 🚀 Usage for Team Members
 
 - **New Developers:** Read the `MADLABS_STANDARDS.md` first.
 - **Project Leads:** Ensure every task follows the `LIFE_OF_A_TASK.md` flow.
